@@ -34,7 +34,7 @@ This project has no deployment as it only contains `.sql` files. To use it, simp
 **Matías Romero**
 
 📧 Email: [matiasrome99.psi@gmail.com](mailto:matiasrome99.psi@gmail.com)  
-📱 Teléfono / Phone: [+598 98158233](https://wa.me/59898158233)
+📱 Teléfono / Phone: [+598 98158233](https://wa.me/59898158233)  
 🔗 [LinkedIn](https://www.linkedin.com/in/matias-romero-qa-testing/)
 
 ------------------------------------------------------------------
